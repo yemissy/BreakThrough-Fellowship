@@ -1,3 +1,3 @@
 # BreakThrough-Fellowship
 
-### Pre-work HTML-CSS Challenge link - [Mockup-Challenge](https://kind-tesla-ab78dd.netlify.app/)
+### Pre-work HTML-CSS Challenge link - [Mockup-Challenge](http://mockupchallenge.surge.sh/)
